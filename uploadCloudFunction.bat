@@ -1,0 +1,1 @@
+"C:\Users\白空-xn\微信web开发者工具\cli.bat" cloud functions deploy --e a1321-4gjbxp7sf3932530 --n quickstartFunctions --r --project "C:\Users\白空-xn\Desktop\医林g" --report
